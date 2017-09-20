@@ -14,7 +14,7 @@
     <packaging>presto-plugin</packaging>
 
     <properties>
-        <air.main.basedir>/Users/sylar/Documents/workspace/reyun/presto</air.main.basedir>
+        <air.main.basedir>${project.parent.basedir}</air.main.basedir>
         <air.check.skip-license>true</air.check.skip-license>
     </properties>
 
